@@ -1,5 +1,5 @@
 ## Contributing to the Tipline
-Hello! Thank you for you interest in contributing to our work 😊
+Hello! Thank you for your interest in contributing to our work 😊
 
 Here's a few things you need to know.
 
