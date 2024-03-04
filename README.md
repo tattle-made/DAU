@@ -1,4 +1,4 @@
-# Deepfake Tipline 🌟
+# MCA Tipline for Deepfakes 🌟
 
 ## Motivation 🎯 	
 As videos closely mimic reality, it is important to provide a speedy response on (a) whether a video is manipulated, (b) correct context and content on the video. It is also important to educate the public on the possibilities and limits of the technology in manipulating videos, and ways in which they can protect themselves. Finally, since the capabilities of AI in manipulating and generating videos is rapidly evolving, there is a need for data that enables research on this.
