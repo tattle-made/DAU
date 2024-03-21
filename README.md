@@ -1,5 +1,7 @@
 # MCA Tipline for Deepfakes 🌟
 
+![compressed](https://github.com/tattle-made/DAU/assets/56875084/c5b9e98c-c044-4d35-b820-07747332fb53)
+
 ## Motivation 🎯 	
 As videos closely mimic reality, it is important to provide a speedy response on (a) whether a video is manipulated, (b) correct context and content on the video. It is also important to educate the public on the possibilities and limits of the technology in manipulating videos, and ways in which they can protect themselves. Finally, since the capabilities of AI in manipulating and generating videos is rapidly evolving, there is a need for data that enables research on this.
 
