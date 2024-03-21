@@ -16,9 +16,8 @@ This is the project management repository of the DAU Tipline.
 
 | **Repository** | **Description** | 
 | -- | --- | 
-| Dashboard | A collaborative space for analysing deepfakes, this repository contains the frontend and backend code for facilitating interactions and workflows for this analyses. |
-| Feluda | A configurable engine for analysing multi-lingual and multi-modal content, this repostory contains all the media processing algorithms relevant to facilitate search and clustering of media items for this project.|
-| Worker | This repository contains Docker and Kubernetes related improvements to Feluda operators, optimised to work at scale. |
+| [Dashboard](https://github.com/tattle-made/dau-dashboard/) | A collaborative space for analysing deepfakes, this repository contains the frontend and backend code for facilitating interactions and workflows for this analyses. |
+| [Feluda](https://github.com/tattle-made/feluda) | A configurable engine for analysing multi-lingual and multi-modal content, this repostory contains all the media processing algorithms relevant to facilitate search and clustering of media items for this project.|
 
 
 ## Contribution 🌱
