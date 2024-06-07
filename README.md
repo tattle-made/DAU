@@ -9,7 +9,7 @@ As videos closely mimic reality, it is important to provide a speedy response on
 ## Background 🌌
 Rapid advances in generative AI has led to the emergence of AI generated content that is blurring the lines between fiction and reality. Fact checkers now don’t just have to point out what is false but also inform people what is indeed true. Over the past few months, a series of audio clips and videos that were altered (and in some cases, also real) has gotten the moniker “deepfakes”. To tackle the problem effectively there is a need for research on the types and challenges of deepfakes, as well as timely response. 
 
-The [Misinformation Combat Alliance](https://mcaindia.in/), has set up a [Deepfake Analysis Unit (DAU)](https://dau.mcaindia.in/) to respond to and research content that comes on a WhatsApp tipline. DAU will coordinate with member fact-checking organisations, industry partners and digital labs. 
+The [Misinformation Combat Alliance](https://mcaindia.in/), has set up a [Deepfakes Analysis Unit (DAU)](https://dau.mcaindia.in/) to respond to and research content that comes on a WhatsApp tipline. DAU will coordinate with member fact-checking organisations, industry partners and digital labs. 
 
 ## Scope of the Repository ⭕
 This is the project management repository of the DAU Tipline. 
